@@ -30,7 +30,7 @@ Wyfog se distribuye en esta fase exclusivamente para dos sistemas operativos:
 | Plataforma | Estado | Formato de Distribución | Requisitos Mínimos |
 | :--- | :--- | :--- | :--- |
 | **Android** | Beta Activa | Archivo APK instalable | Android 8.0 (API nivel 26) o superior. 3 GB de RAM recomendados. |
-| **Windows** | Beta Activa | Paquete ejecutable (.zip / .exe) | Windows 10 (64 bits) versión 1809 o superior, o Windows 11. |
+| **Windows** | Beta Activa | Instalador ejecutable (.exe) | Windows 10 (64 bits) versión 1809 o superior, o Windows 11. |
 
 #### Plataformas no disponibles en esta fase:
 - **iOS:** No disponible en esta fase del lanzamiento.
@@ -53,10 +53,10 @@ Wyfog se distribuye en esta fase exclusivamente para dos sistemas operativos:
 6. Configura tu PIN de seguridad propio de 6 dígitos cuando accedas por primera vez a la Bóveda Segura.
 
 #### 3.2. En Windows (Escritorio)
-1. Descarga el archivo comprimido `Wyfog-beta-v1.0.0-windows.zip` desde las publicaciones oficiales.
-2. Descomprime el contenido completo en una carpeta local de tu disco (por ejemplo en `C:\Archivos de programa\Wyfog` o en tu carpeta de usuario).
-3. Ejecuta el archivo `wyfog.exe`.
-4. Si Windows SmartScreen muestra un aviso de advertencia por tratarse de un ejecutable beta reciente sin reputación histórica acumulada, pulsa en *"Más información"* y a continuación en *"Ejecutar de todas formas"*.
+1. Descarga el instalador oficial `Wyfog-beta-v1.0.0-windows.exe` desde las publicaciones oficiales.
+2. Ejecuta el archivo descargado. Si Windows SmartScreen muestra un aviso de advertencia por tratarse de un ejecutable beta reciente sin reputación histórica acumulada, pulsa en *"Más información"* y a continuación en *"Ejecutar de todas formas"*.
+3. Sigue los pasos del asistente de instalación para completar la instalación en tu equipo.
+4. Abre Wyfog desde el menú Inicio o desde el acceso directo del escritorio.
 
 ---
 

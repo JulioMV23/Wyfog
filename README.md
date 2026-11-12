@@ -301,9 +301,9 @@ Las versiones compiladas para evaluación se publican en el apartado de **Releas
   3. Al iniciar la aplicación por primera vez, el asistente de bienvenida solicitará los permisos de notificaciones (para recordatorios de itinerario) y ubicación (para el centrado del mapa).
   4. Configura tu PIN de seguridad de 6 dígitos cuando accedas por primera vez a la Bóveda Segura.
 - **Instalación en Windows (Escritorio):**
-  1. Descarga el paquete `Wyfog-beta-v1.0.0-windows.zip`.
-  2. Descomprímelo en el directorio que prefieras en tu equipo.
-  3. Ejecuta `wyfog.exe`.
+  1. Descarga el instalador `Wyfog-beta-v1.0.0-windows.exe` desde las *Releases* oficiales de GitHub.
+  2. Ejecuta el archivo descargado. Si Windows SmartScreen muestra un aviso preventivo por tratarse de un ejecutable reciente, pulsa en *"Más información"* y luego en *"Ejecutar de todas formas"*.
+  3. Sigue los pasos del asistente de instalación y abre Wyfog desde el menú Inicio o el acceso directo del escritorio.
 
 ---
 
@@ -346,7 +346,7 @@ Si durante tus pruebas beta encuentras un fallo de software (*bug*), un problema
 - [x] Exportación a PDF (informes de viaje, gastos y lista de equipaje), descarga directa de postales de recuerdos en PNG transparente en galería y calendario ICS.
 
 ### Mejoras en Exploración para Versiones Posteriores
-- [ ] Empaquetado formal de distribución para Windows (instalador MSIX / InnoSetup).
+- [x] Empaquetado formal de distribución para Windows (instalador Inno Setup `.exe`).
 - [ ] Sincronización voluntaria cifrada de extremo a extremo (E2EE) entre dispositivos del mismo usuario.
 - [ ] Evaluación de viabilidad técnica para la versión de iOS y ecosistema Apple.
 - [ ] Soporte para mapas vectoriales compactos MapLibre / PMTiles para reducir el tamaño de almacenamiento en disco.

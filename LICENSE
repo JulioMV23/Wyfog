@@ -1,4 +1,5 @@
 # AVISO DE DERECHOS DE AUTOR Y TITULARIDAD DE WYFOG
+
 ## Términos de Distribución de Documentación y Presentación Pública
 
 Copyright (c) 2024-2026 JUDMAV / Wyfog. Todos los derechos reservados.
@@ -12,6 +13,7 @@ El software Wyfog, su código fuente original, algoritmos, arquitectura técnica
 **Este repositorio público no constituye una concesión de licencia de código abierto (Open Source).**
 
 El código fuente original de la aplicación Wyfog se mantiene estrictamente bajo control privado. Los materiales, guías, especificaciones y archivos incluidos en este repositorio se ponen a disposición pública con el único propósito de:
+
 1. Presentar las funcionalidades y características del proyecto.
 2. Proporcionar a los evaluadores y usuarios de las versiones beta información sobre privacidad, términos de uso e instalación.
 3. Facilitar un canal formal y transparente para el reporte de incidencias y propuestas de mejora.
@@ -19,6 +21,7 @@ El código fuente original de la aplicación Wyfog se mantiene estrictamente baj
 ### 2. Restricciones de Uso y Redistribución
 
 Salvo autorización expresa y por escrito de los titulares de los derechos:
+
 - Queda prohibida la copia, reproducción, distribución, venta, sublicenciamiento, descompilación, ingeniería inversa o creación de obras derivadas basadas en el software Wyfog o en cualquiera de sus componentes binarios.
 - Los logotipos, nombres comerciales y señas de identidad visual de Wyfog no pueden ser utilizados en otros proyectos, productos o servicios sin consentimiento previo.
 - La consulta y descarga de la documentación técnica y las versiones binarias beta públicas se autorizan exclusivamente para uso personal de prueba y evaluación durante el período beta.
@@ -27,11 +30,11 @@ Salvo autorización expresa y por escrito de los titulares de los derechos:
 
 Wyfog reconoce, respeta y agradece el trabajo de las comunidades y entidades cuyos componentes de software abierto, datos y servicios han hecho posible este desarrollo:
 
-- **OpenStreetMap (OSM):** Datos cartográficos bajo licencia *Open Data Commons Open Database License* (ODbL) por la Fundación OpenStreetMap (OSMF). Teselas proporcionadas bajo las políticas de uso de OSM. © Colaboradores de OpenStreetMap.
+- **OpenStreetMap (OSM):** Datos cartográficos bajo licencia _Open Data Commons Open Database License_ (ODbL) por la Fundación OpenStreetMap (OSMF). Teselas proporcionadas bajo las políticas de uso de OSM. © Colaboradores de OpenStreetMap.
 - **Flutter & Dart SDK:** Desarrollados por Google y colaboradores bajo licencia BSD de 3 cláusulas.
 - **Isar Database:** Desarrollado por Simon Leier bajo licencia Apache 2.0.
 - **Google ML Kit:** Modelos de machine learning en dispositivo bajo las Condiciones de Servicio de Google APIs y licencias Apache 2.0.
-- **Open-Meteo:** Datos meteorológicos provistos bajo licencia *Creative Commons Attribution 4.0 International* (CC BY 4.0).
+- **Open-Meteo:** Datos meteorológicos provistos bajo licencia _Creative Commons Attribution 4.0 International_ (CC BY 4.0).
 - **Frankfurter API:** Datos de tipos de cambio de divisas basados en publicaciones del Banco Central Europeo (BCE).
 - **Bibliotecas del ecosistema Flutter/Dart:** Riverpod (MIT), flutter_map (BSD), encrypt (BSD), local_auth (BSD), flutter_secure_storage (BSD), fl_chart (MIT), entre otras dependencias auditadas en `pubspec.yaml`.
 
@@ -39,7 +42,7 @@ Cada una de las bibliotecas de terceros mencionadas conserva sus respectivas lic
 
 ### 4. Aviso Legal y Estado de Revisión
 
-El presente documento es una declaración de reserva de derechos y términos de distribución de software preliminar redactada para la fase beta del producto. 
+El presente documento es una declaración de reserva de derechos y términos de distribución de software preliminar redactada para la fase beta del producto.
 
 > [!NOTE]
 > Este aviso no constituye asesoramiento jurídico definitivo ni sustituye al registro oficial ante los organismos de propiedad intelectual o patentes y marcas correspondientes a cada jurisdicción aplicable. Los titulares se reservan el derecho de actualizar los términos de licencia en versiones definitivas de producción.
