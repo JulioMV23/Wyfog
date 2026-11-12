@@ -1,0 +1,86 @@
+# ==============================================================================
+# Wyfog - Reglas de exclusión para el repositorio público de presentación
+# ==============================================================================
+
+# 1. Código fuente privado de la aplicación
+*.dart
+/lib/
+/android/
+/ios/
+/linux/
+/macos/
+/windows/
+/test/
+/tool/
+.dart_tool/
+pubspec.lock
+.flutter-plugins*
+
+# 2. Claves, credenciales y secretos de firma
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+*.cer
+*.crt
+*.pfx
+*.env
+*.env.*
+*.secret
+id_rsa
+id_ed25519
+
+# 3. Bases de datos y almacenamiento local
+*.isar
+*.isar.lock
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# 4. Documentos privados, bóveda y respaldos personales
+*.enc
+*.wyfogbackup
+*.trip
+*.ics
+*.gpx
+documentos_seguros/
+recuerdos_privados/
+
+# 5. Entornos de desarrollo y configuración local
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.sublime-*
+local.properties
+key.properties
+
+# 6. Compilaciones y artefactos temporales
+/build/
+.gradle/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 7. Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 8. Excepciones: Permitir explícitamente recursos de presentación
+!assets/
+!assets/**
+!screenshots/
+!screenshots/**
+!README.md
+!PRIVACY.md
+!TERMS.md
+!BETA.md
+!LICENSE
+!.gitignore
