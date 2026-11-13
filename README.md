@@ -20,7 +20,8 @@
   <a href="#-funcionalidades-verificadas-en-la-versión-actual">✨ Funcionalidades</a> •
   <a href="#-plataformas-disponibles-y-estado-beta">📱 Plataformas</a> •
   <a href="#-instalación-y-puesta-en-marcha">🚀 Instalación y Descargas</a> •
-  <a href="BETA.md">🧪 Guía Beta</a>
+  <a href="BETA.md">🧪 Guía Beta</a> •
+  <a href="https://tally.so/r/zEygb8">📝 Dar Feedback</a>
 </p>
 
 <div align="center">
@@ -317,12 +318,14 @@ Para conocer en detalle cada permiso solicitado, el alcance del cifrado y los se
 
 ---
 
-## 🛠️ Procedimiento para Comunicar Errores
+## 🛠️ Procedimiento para Comunicar Errores y Sugerencias
 
-Si durante tus pruebas beta encuentras un fallo de software (*bug*), un problema de diseño o una propuesta de mejora:
+Si durante tus pruebas beta encuentras un fallo de software (*bug*), un problema de diseño o una propuesta de mejora, dispones de dos vías:
 
-1. Revisa las incidencias abiertas en la pestaña de **Issues** de GitHub para comprobar si ya ha sido notificado.
-2. Abre un nuevo *Issue* utilizando las plantillas disponibles (`Reporte de Error` o `Solicitud de Mejora`), especificando tu dispositivo, versión de sistema operativo y los pasos exactos para reproducir el comportamiento.
+1. **Formulario Rápido de Feedback (Recomendado, sin registro):** Envíanos tus opiniones o fallos en menos de 1 minuto a través del [**Formulario de Feedback de Wyfog (Tally)**](https://tally.so/r/zEygb8).
+2. **Seguimiento Técnico en GitHub:**
+   - Revisa las incidencias abiertas en la pestaña de [**Issues**](https://github.com/JulioMV23/Wyfog/issues) de GitHub para comprobar si ya ha sido notificado.
+   - Abre un nuevo *Issue* utilizando las plantillas disponibles (`Reporte de Error` o `Solicitud de Mejora`), especificando tu dispositivo, versión de sistema operativo y los pasos exactos para reproducir el comportamiento.
 3. **Importante:** Jamás adjuntes capturas de pantalla que contengan datos personales reales, pasaportes o billetes privados.
 4. Consulta todos los detalles del proceso en [BETA.md](BETA.md).
 

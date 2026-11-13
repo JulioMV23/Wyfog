@@ -99,9 +99,16 @@ Para sacar el máximo provecho a la aplicación y evitar sorpresas durante un vi
 
 ### 6. CÓMO COMUNICAR ERRORES Y PROPUESTAS DE MEJORA
 
-Tus comentarios son vitales para llevar Wyfog a su versión estable final. Si experimentas un fallo o tienes una sugerencia de usabilidad, abre una incidencia (*Issue*) en el repositorio de GitHub.
+Tus comentarios son vitales para llevar Wyfog a su versión estable final. Dispones de dos vías de colaboración:
 
-#### Información recomendada para incluir en tu reporte:
+#### 📝 Vía Rápida y Recomendada: Formulario de Feedback (Sin Registro)
+Para dejarnos impresiones generales, ideas de nuevas funciones o reportar un error sin necesidad de tener cuenta:
+👉 [**Abrir Formulario de Feedback y Errores de Wyfog (Tally)**](https://tally.so/r/zEygb8) *(Toma menos de 1 minuto y no requiere crear cuentas)*.
+
+#### 🐙 Vía Técnica: Incidencias en GitHub (Issues)
+Si eres desarrollador o deseas hacer seguimiento detallado de un problema técnico, abre una incidencia en la pestaña de [**Issues**](https://github.com/JulioMV23/Wyfog/issues) del repositorio oficial de Wyfog.
+
+##### Información recomendada para incluir en tu reporte técnico:
 1. **Título descriptivo:** Ejemplo: *"[Android 14] Alarma de itinerario no suena a la hora programada"*.
 2. **Dispositivo y Sistema Operativo:** Marca y modelo de teléfono, versión de Android o versión exacta de Windows (ej. Windows 11 Pro 23H2).
 3. **Versión de Wyfog:** Consulta la versión en Ajustes > Información (ej. v1.0.0+1 Beta).
